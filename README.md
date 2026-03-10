@@ -1,4 +1,4 @@
-#Sudoku Solver
+# Sudoku Solver
 
 Solves a 9x9 Sudoku puzzle from a text file using recursive backtracking.
 
